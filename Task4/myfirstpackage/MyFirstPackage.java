@@ -1,4 +1,4 @@
-class MySecondClass {
+public class MySecondClass {
     private int a;
     private int b;
     public MySecondClass(int a, int b) {
