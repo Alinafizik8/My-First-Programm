@@ -1,3 +1,4 @@
+package myfirstpackage;
 public class MySecondClass {
     private int a;
     private int b;
